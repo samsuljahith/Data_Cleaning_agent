@@ -1,0 +1,8 @@
+Name,Age,Join_Date,Email,Salary,Department
+John Doe,28,2023/01/15,john@example.com,50000,Marketing
+Jane Smith,,01-15-2023,jane.smith@test,75000,Sales
+Robert Brown,35,2023-01-20,robert@demo.com,,IT
+John Doe,28,2023/01/15,john@example.com,50000,Marketing
+Alice Wong,42,2022-12-05,alice.wong@org,81000,Finance
+,31,2023/02/28,missing@test.com,62000,HR
+"David Lee",45,2023-03-10,david.lee@company.com,94000,
